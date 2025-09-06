@@ -32,6 +32,21 @@ data/Talent_Academy_Case_DT_2025.xlsx
 
 notebooks/01_eda.ipynb
 
+## Repository Structure
+├── data/
+│   └── Talent_Academy_Case_DT_2025.xlsx
+├── docs/
+│   └── EDA_Report.md
+├── notebooks/
+│   └── 01_eda.ipynb
+├── outputs/
+│   ├── cleaned_dataset.csv
+│   └── ...
+├── src/
+│   └── preprocess.py
+├── requirements.txt
+└── README.md
+
 ## Key Steps Performed
 
 EDA (Exploratory Data Analysis): distributions, missing values, correlation heatmap.
