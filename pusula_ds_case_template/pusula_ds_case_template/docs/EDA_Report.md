@@ -1,15 +1,15 @@
 # EDA & Preprocessing Report
 
-**Name:** Yade Örsel  
-**E-mail:** yadeorsl@gmail.com  
+Name: Yade Örsel  
+E-mail: yadeorsl@gmail.com  
 
 ---
 
 ## 1. Dataset Overview
 - Total rows: 2235  
 - Total columns: 13  
-- Target variable: **TedaviSuresi** (treatment duration in sessions)  
-- ID column: **HastaNo** (not used for modeling)
+- Target variable: TedaviSuresi (treatment duration in sessions)  
+- ID column: HastaNo (not used for modeling)
 
 ---
 
