@@ -32,21 +32,6 @@ data/Talent_Academy_Case_DT_2025.xlsx
 
 notebooks/01_eda.ipynb
 
-## Repository Structure
-├── data/
-│   └── Talent_Academy_Case_DT_2025.xlsx
-├── docs/
-│   └── EDA_Report.md
-├── notebooks/
-│   └── 01_eda.ipynb
-├── outputs/
-│   ├── cleaned_dataset.csv
-│   └── ...
-├── src/
-│   └── preprocess.py
-├── requirements.txt
-└── README.md
-
 ## Key Steps Performed
 
 EDA (Exploratory Data Analysis): distributions, missing values, correlation heatmap.
@@ -63,10 +48,3 @@ EDA (Exploratory Data Analysis): distributions, missing values, correlation heat
 
 *Missing values imputed (median for numeric, mode/Unknown for categorical)
 
-## Submission Notes
-
-GitHub repo name: Pusula_Yade_Orsel
-
-Delivered files: Notebook, cleaned dataset, EDA report, README.md
-
-Deadline: 06.09.2025 23:59
